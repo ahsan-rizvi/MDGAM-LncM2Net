@@ -52,6 +52,7 @@ Make sure you have following libraries installed.
 * Additional dependencies specified in requirements.txt
 
 2. Setup
+
 Clone this repository:
 ```bash
 git clone https://github.com/ahsan-rizvi/MDGAM-LncM2Net.git
@@ -67,7 +68,7 @@ Install Python dependencies:
 ```bash
 pip3 install -r requirements.txt
 ```
-2. Run
+3. Run
 
 To run the model, run the R_Script.R and main.py script. You can customize training parameters such as the number of epochs, learning rate, and other hyperparameters by passing arguments to the script.
 
