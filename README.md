@@ -30,8 +30,8 @@ The code is modular and extensible for application across different cancer types
 ## File Structure
 The file structure of the repository is as follows:
 ```.
-├── data/
-│   ├── Data.Rdata           # A file containing cancer data
+├── Data/
+│   ├── data.Rdata           # A file containing cancer data
 ├── code/
 │   ├── Funnction.R          # Data integration and survival analysis function
 │   ├── R_Script.R           # MDGAM-LncM2Net pipeline to evaluate lncRNA-miRNA-mRNA regulatory network
