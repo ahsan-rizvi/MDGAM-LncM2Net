@@ -2,7 +2,7 @@
 Multi-Layer Deep Graph Attention Model for lncRNA–miRNA–mRNA Regulatory Network in Human Cancers
 
 ## Project Overview
-MDGAM-LncM2Net is a cutting-edge computational framework designed to construct and analyze cancer-specific lncRNA–miRNA–mRNA (LncM2) competing endogenous RNA (ceRNA) networks using multi-omic transcriptomic data and experimentally validated RNA interactions. By integrating graph attention networks with bidirectional LSTMs, the model captures both the complex regulatory topology and temporal gene expression patterns to identify key driver lncRNAs and prognostic gene modules across multiple cancer types. This approach improves interpretability and predictive accuracy for patient survival outcomes, providing a powerful tool for precision oncology research and clinical translation.
+MDGAM-LncM2Net is an advanced computational framework for constructing and analyzing cancer-specific lncRNA–miRNA–mRNA (LncM2) competing endogenous RNA (ceRNA) networks. Leveraging multi-omic transcriptomic profiles and experimentally validated RNA interactions, the model integrates graph attention networks (GATs) with bidirectional long short-term memory (BiLSTM) networks. This dual architecture captures both the intricate regulatory topology of ceRNA interactions and the temporal dynamics of gene expression. By doing so, MDGAM-LncM2Net enables the identification of key regulatory lncRNAs and prognostic gene modules across diverse cancer types. The framework significantly enhances the interpretability and predictive accuracy of survival outcome models, offering a powerful tool for precision oncology and clinical translational research.
 
 ## Data Description
 The framework requires:
