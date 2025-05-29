@@ -79,7 +79,9 @@ python3 Code/main.py
 source(Code/R_Script.R)
 ```
 ## Publication
-Shivani Saxena, Ahsan Z Rizvi, , _Under review_
+Shivani Saxena, Ahsan Z Rizvi, Multi-Layer Deep Graph Attention Model for
+lncRNA–miRNA–mRNA Regulatory Network in Human
+Cancers, _Under review_
 
 ## Contact
 Dr Ahsan Z Rizvi, ahsan.rizvi@iar.ac.in
